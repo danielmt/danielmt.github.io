@@ -1,7 +1,11 @@
 ---
 layout: post
 title: "ohai"
-date: 2013-11-22 17:14:44 -0200
+date: 2013-11-22 16:20:00 -0200
 comments: true
-categories: 
+categories: [ohai,firstpost]
 ---
+
+Ohai. HC SVNT DRACONES.
+
+After a long year, I finally found time to set this up. Won't take this long for a real post.. I hope. :)
