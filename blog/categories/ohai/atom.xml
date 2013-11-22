@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ohai | uncanny]]></title>
+  <link href="http://uncanny.io/blog/categories/ohai/atom.xml" rel="self"/>
+  <link href="http://uncanny.io/"/>
+  <updated>2013-11-22T17:23:42-02:00</updated>
+  <id>http://uncanny.io/</id>
+  <author>
+    <name><![CDATA[Daniel Mascarenhas]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ohai]]></title>
+    <link href="http://uncanny.io/blog/2013/11/22/ohai/"/>
+    <updated>2013-11-22T16:20:00-02:00</updated>
+    <id>http://uncanny.io/blog/2013/11/22/ohai</id>
+    <content type="html"><![CDATA[<p>Ohai. HC SVNT DRACONES.</p>
+
+<p>After a long year, I finally found time to set this up. Won&rsquo;t take this long for a real post.. I hope. :)</p>
+]]></content>
+  </entry>
+  
+</feed>
